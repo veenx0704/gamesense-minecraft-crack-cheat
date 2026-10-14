@@ -2,6 +2,14 @@
 
 GameSense кряк, GameSense crack — бесплатный Crystal PvP клиент Minecraft 1.12.2. Лоадер, AutoTotem.
 
+## Постер с сайта MoggyDay
+
+[![GameSense — poster, crack, cheat, скачать с moggydaymc-cheat.com](https://moggydaymc-cheat.com/assets/posters/gamesense.jpg)](https://moggydaymc-cheat.com/client.html?id=gamesense)
+
+Фото карточки на сайте: [https://moggydaymc-cheat.com/assets/posters/gamesense.jpg](https://moggydaymc-cheat.com/assets/posters/gamesense.jpg) · [https://moggydaymc-cheat.com/client.html?id=gamesense](https://moggydaymc-cheat.com/client.html?id=gamesense)
+
+В репозитории: `assets/poster.jpg` (тот же постер, что на сайте и в лаунchere).
+
 ## Скачать GameSense — только с официального сайта
 
 **Скачать с сайта MoggyDay** (официально, без зеркал и «левых» crack-файлов):
@@ -16,14 +24,30 @@ GameSense кряк, GameSense crack — бесплатный Crystal PvP кли�
 > **SEO:** запросы вроде «GameSense crack», «GameSense cheat», «GameSense кряк», «скачать GameSense minecraft» — качай **только** с **moggydaymc-cheat.com**, не с Telegram и не с file-hosting.
 
 
-## О клиенте
+## Кратко
 
 GameSense кряк / GameSense crack — FREE Crystal-пресеты 1.12.2. Лоадер AutoTotem, Velocity, ESP, Scaffold. На 1.20+ — ThunderHack или Meteor.
 
-- **Версии Minecraft:** 1.12.2
-- **Java:** 17
-- **Сервера:** Crystal 1.12
-- **Модули:** crystal autototem esp velocity scaffold
+| Параметр | Значение |
+| --- | --- |
+| Клиент | **GameSense** |
+| Тип | FREE |
+| Направление | Crystal PvP |
+| Minecraft | 1.12.2 |
+| Java | 17 |
+| RAM | 4 ГБ |
+| Античит | NCP |
+| Сервера | Crystal 1.12 |
+
+## Подробное описание
+
+GameSense кряк известен crystal-пресетами на 1.12.2. Лоадер GameSense ставит FREE: AutoTotem, Velocity, ESP. GameSense crack на 1.20+ нет — смотри Meteor или ThunderHack Recode. GameSense кряк и GameSense crack в каталоге MoggyDay ищут как «GameSense кряк», «GameSense crack», «лоадер GameSense», «GameSense loader». Античит NCP, сервера Crystal 1.12, версии 1.12.2. Не качай GameSense crack с зеркал: лоадер только с карточки. Конфиг другой ниши на GameSense кряк не ставь.
+
+## Функционал и модули
+
+На MoggyDay GameSense — FREE 1.12 Crystal: CrystalAura, AutoTotem, ESP, Velocity, Scaffold. Функционал GameSense кряк / GameSense crack на MoggyDay — это набор модулей карточки: бой, визуалы или утилиты по направлению сборки. Включай только то, что нужно серверу. Speed и Fly на живом античите чаще кикают. Сохраняй cfg GameSense отдельно (например gamesense.cfg), обновляй лоадер после патча защиты.
+
+**Модули:** crystal, autototem, esp, velocity, scaffold
 
 ## Ключевые слова (Google · Yandex · браузер)
 
